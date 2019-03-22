@@ -1,3 +1,3 @@
 # node-app
-#not eally  alone
+#not ally  alone
 
