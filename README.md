@@ -1,3 +1,3 @@
 # node-app
-#not really  alone
+#not eally  alone
 
